@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "512147894940",
+    "firebase_url": "https://curex-5a97a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "curex-5a97a",
+    "storage_bucket": "curex-5a97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512147894940:android:990ff02018e1baccd5f359",
+        "android_client_info": {
+          "package_name": "com.example.project_curex_personal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWlFS6zWSOjGesu_5SfuIkStIqduAWvjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
